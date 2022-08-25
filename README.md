@@ -34,5 +34,3 @@ Por fim, a aplicação estará disponível em `http://localhost:3333`
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-
-Feito em conjunto com a Rocketseat no evento Next Level Week.
